@@ -5,21 +5,7 @@
 <header class="header">
 	<a href="/">
 		<h1 class="header-title">
-			<svg
-				width="28px"
-				height="28px"
-				fill="#e64a19"
-				stroke="#e64a19"
-				stroke-width="0"
-				viewBox="0 0 24 24"
-				xmlns="http://www.w3.org/2000/svg">
-				<g>
-					<path fill="none" d="M0 0h24v24H0z" />
-					<path d="../../static/favicon.svg" />
-				</g>
-			</svg>
-
-			Anima
+			Mai_anime
 		</h1>
 	</a>
 
