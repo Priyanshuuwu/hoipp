@@ -15,7 +15,7 @@
 				xmlns="http://www.w3.org/2000/svg">
 				<g>
 					<path fill="none" d="M0 0h24v24H0z" />
-					<path d="../../utils/favicon.svg" />
+					<path d="../../static/favicon.svg" />
 				</g>
 			</svg>
 
